@@ -1,0 +1,15 @@
+C:\Projetos_Dio\ExemploEsplprando\bin\Debug\net6.0\ExemploEsplprando.exe
+C:\Projetos_Dio\ExemploEsplprando\bin\Debug\net6.0\ExemploEsplprando.deps.json
+C:\Projetos_Dio\ExemploEsplprando\bin\Debug\net6.0\ExemploEsplprando.runtimeconfig.json
+C:\Projetos_Dio\ExemploEsplprando\bin\Debug\net6.0\ExemploEsplprando.dll
+C:\Projetos_Dio\ExemploEsplprando\bin\Debug\net6.0\ExemploEsplprando.pdb
+C:\Projetos_Dio\ExemploEsplprando\obj\Debug\net6.0\ExemploEsplprando.csproj.AssemblyReference.cache
+C:\Projetos_Dio\ExemploEsplprando\obj\Debug\net6.0\ExemploEsplprando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Dio\ExemploEsplprando\obj\Debug\net6.0\ExemploEsplprando.AssemblyInfoInputs.cache
+C:\Projetos_Dio\ExemploEsplprando\obj\Debug\net6.0\ExemploEsplprando.AssemblyInfo.cs
+C:\Projetos_Dio\ExemploEsplprando\obj\Debug\net6.0\ExemploEsplprando.csproj.CoreCompileInputs.cache
+C:\Projetos_Dio\ExemploEsplprando\obj\Debug\net6.0\ExemploEsplprando.dll
+C:\Projetos_Dio\ExemploEsplprando\obj\Debug\net6.0\refint\ExemploEsplprando.dll
+C:\Projetos_Dio\ExemploEsplprando\obj\Debug\net6.0\ExemploEsplprando.pdb
+C:\Projetos_Dio\ExemploEsplprando\obj\Debug\net6.0\ExemploEsplprando.genruntimeconfig.cache
+C:\Projetos_Dio\ExemploEsplprando\obj\Debug\net6.0\ref\ExemploEsplprando.dll
